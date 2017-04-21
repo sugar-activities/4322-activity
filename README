@@ -1,0 +1,19 @@
+RUN INSTRUCTIONS
+
+To run the game, you must have pygame installed.  The game also requires the
+fortune engine installed.  You may find it in the fortune hunter wiki:
+https://fedorahosted.org/fortune_hunter/wiki/FortuneEngine
+
+To start the game in terminal run the command "python PPActivity.py"
+To start it on an xo, after installing just click the Produce Puzzle Icon which
+will run the activity.py file.
+
+GAME PLAY INSTRUCTIONS
+To begin, click on the Puzzle Produce icon on your XO.
+
+The game will start immediately.
+
+Choose to start the game or exit. When the game starts you'll have to enter your
+guess as to what the second fruit represents. The left shift key brings up your
+menu to enter your guess, hitting enter inputs your guess. Check how you've been
+doing by watching your score at the bottom right!

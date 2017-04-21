@@ -1,0 +1,9 @@
+[Activity]
+name = Produce Puzzle
+bundle_id = org.laptop.ProducePuzzle
+exec = sugar-activity activity.ProducePuzzle
+icon = activity-producepuzzle
+activity_version = 5
+host_version = 1
+show_launcher = yes
+license = GPLv2+
